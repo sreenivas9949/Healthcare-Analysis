@@ -13,4 +13,4 @@ To achieve the objectives of the Healthcare Data Analysis project, various advan
 
 #### Dashboard Snapshot:
 
-![Dashboard snapshot](Excel/Dashboard snapshot.png) 
+![Dashboard snapshot](Dashboard snapshot.png) 

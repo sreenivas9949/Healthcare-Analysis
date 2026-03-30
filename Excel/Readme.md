@@ -6,3 +6,6 @@ To achieve the objectives of the Healthcare Data Analysis project, various advan
 #### Power Query Editor: Power Query Editor was used to streamline data processing, encompassing data cleaning and transformation.
 
 #### Data Model Snapshot:
+### Data Model snapshot :
+
+![Data_Model_snapshot](Data_model_snapshot.png) 

@@ -6,6 +6,6 @@ To achieve the objectives of the Healthcare Data Analysis project, various Dax f
 
 ![Model_view_snapshot](Model_view_snapshot.png.png) 
 
-#### Dashboard Sbapshot
+#### Dashboard Snapshot
 
 ![Dashboard_snapshot](Dashboard_snapshot.png.png) 

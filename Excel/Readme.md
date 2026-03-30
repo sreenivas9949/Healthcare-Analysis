@@ -10,3 +10,7 @@ To achieve the objectives of the Healthcare Data Analysis project, various advan
 ![Data_Model_snapshot](Data_model_snapshot.png.png) 
 
 #### Power Pivot : Power Pivot was used to define relationships between tables, supporting the development of interactive and customizable PivotCharts.
+
+#### Dashboard Snapshot:
+
+![Dashboard_snapshot](Dashboard_snapshot.png) 

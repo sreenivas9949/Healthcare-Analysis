@@ -1,5 +1,5 @@
 # Healthcare-Analysis
-This project aimed to uncover insights from Healthcare data through advanced data analysis techniques, leveraging Excel functions and SQL queries, and visualizing key findings through interactive dashboards developed in Power BI, Excel and Tableau.
+This project covers End to End which aimed to uncover insights from Healthcare data through advanced data analysis techniques, leveraging Excel functions and SQL queries, and visualizing key findings through interactive dashboards developed in Power BI, Excel and Tableau.
 
 ### Project Targets:
 * Develop a Healthcare analytics dashboard to track and visualize key patient metrics including Total patients, visits, and doctor counts.
